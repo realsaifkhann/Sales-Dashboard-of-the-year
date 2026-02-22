@@ -1,8 +1,7 @@
 # Sales-Dashboard-of-the-year
 Power BI Sales Dashboard analyzing Total Sales, Cost, Quantity, Transactions, and Profit using a Kaggle dataset. Features interactive KPI tracking, profitability analysis, and dynamic visualizations.
 
-📊 Sales Dashboard of the Year – Power BI
-
+📊 
 🔹 Overview
 
 The Sales Dashboard of the Year is an interactive Power BI report designed to analyze and visualize sales performance using a Kaggle dataset.
