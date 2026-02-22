@@ -42,6 +42,7 @@ These KPIs provide a high-level snapshot of business performance.
 🔹 Key Features
 
 ✔ Interactive and user-friendly design
+
 ✔ Real-time KPI monitoring
 ✔ Drill-down and filtering capabilities
 ✔ Trend and comparative analysis
