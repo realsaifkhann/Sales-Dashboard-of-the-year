@@ -8,6 +8,7 @@ It provides a comprehensive overview of business metrics, enabling stakeholders 
 
 The dashboard transforms raw transactional data into meaningful insights through dynamic visualizations and KPI tracking.
 
+
 🔹 Problem Statement
 
 Businesses generate large volumes of sales data, but extracting actionable insights can be challenging without proper visualization tools.
@@ -21,6 +22,7 @@ This dashboard was developed to:
 - Evaluate profitability and cost structure
 
 - Support data-driven strategic decisions
+
 
 🔹 Key Performance Indicators (KPIs)
 
@@ -36,6 +38,7 @@ This dashboard was developed to:
 
 These KPIs provide a high-level snapshot of business performance.
 
+
 🔹 Key Features
 
 ✔ Interactive and user-friendly design
@@ -43,6 +46,7 @@ These KPIs provide a high-level snapshot of business performance.
 ✔ Drill-down and filtering capabilities
 ✔ Trend and comparative analysis
 ✔ Profitability insights
+
 
 🔹 Tools & Technologies
 
@@ -54,6 +58,7 @@ These KPIs provide a high-level snapshot of business performance.
 
 - Data Modeling
 
+
 🔹 Data Source
 
 Dataset obtained from Kaggle.
@@ -63,6 +68,8 @@ The dataset includes:
 - Sales transactions
 
 - Product-level information
+
+- Brand-wise revenue
 
 - Cost & revenue data
 
